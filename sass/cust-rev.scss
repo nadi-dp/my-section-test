@@ -1,0 +1,24 @@
+.customer-reviews__slider {
+  padding-top: 123px;
+  padding-bottom: 132px;
+  padding-left: 178px;
+  padding-right: 176px;
+}
+.slider-container {
+  width: 926px;
+  text-align: center;
+  padding-top: 300px;
+}
+.slider-container__image {
+  text-align: center;
+}
+.slider-container__review {
+  font-family: $font;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.86;
+  text-align: center;
+  letter-spacing: 0.04em;
+  background-color: #fafafa;
+  padding: 32px 54px 32px 50px;
+}
